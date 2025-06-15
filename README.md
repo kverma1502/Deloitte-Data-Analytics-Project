@@ -30,10 +30,11 @@ The Forensic Tech team has built an algorithm to quantify “level of gender pay
 
    📁 tableau-data-analysis-project/
 |   TASK 1: To analyse the telemetry data collected by Daikibo in a Tableau software
+|   🚀 [Download daikibo-telemetry-data.json]([https://drive.google.com/your-shared-link](https://1drv.ms/u/c/b3e14e03671ba286/Ef4lEuHKL15Nitrg93VPVDoBLvmlun7M4TSIlTixZL-B-w?e=x4ZXRB))
 ├── 📄 daikibo-telemetry-data    --json files contains data which is used to create a reaquired tableau dashboard.
 ├── 📈 Del_task_1.twb            --Tableau dashboard
 |
 |   TASK 2: Used MS-Excel to classify data and draw business conclusions
-└── 📊Equality Table      --Excel file
+└── 📊Equality_Table_task_2      --Excel file
 
 
